@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import Image from 'next/image';
-import { Star, Heart, ShoppingBag, Check, Flame, ShieldCheck, Filter } from 'lucide-react';
+import { Star, Heart, ShoppingBag, Check, Flame } from 'lucide-react';
 
 export interface Product {
   id: string;

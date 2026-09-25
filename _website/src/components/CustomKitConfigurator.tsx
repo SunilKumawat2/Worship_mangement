@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
-import { Flame, Check, Sparkles, Plus, Minus, ShoppingBag, ShieldCheck } from 'lucide-react';
+import { Flame, Check, Sparkles, ShoppingBag, ShieldCheck } from 'lucide-react';
 import { Product } from './ProductSection';
 
 const kitItemsData = [

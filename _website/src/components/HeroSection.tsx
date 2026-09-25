@@ -2,7 +2,7 @@
 
 import React from 'react';
 import Image from 'next/image';
-import { Flame, Sparkles, ShieldCheck, Truck, Star, ArrowRight, Award } from 'lucide-react';
+import { Flame, Sparkles, Truck, Star, ArrowRight, Award } from 'lucide-react';
 
 export default function HeroSection() {
   return (
